@@ -1,0 +1,11 @@
+.button_metamask_connect {
+    box-shadow: 0 2px 5px 0 rgb(0 0 0 / 16%), 0 2px 10px 0 rgb(0 0 0 / 12%);
+}
+
+button.btn.btn.button_design {
+    background: #741188;
+    color: white;
+    width: 20%;
+}
+
+
